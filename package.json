@@ -1,0 +1,11 @@
+{
+  "name": "when-will-i-be-half-my-parents-age",
+  "version": "1.0.0",
+  "description": "A package that given two dates (your parents bday, and yours) how long it will be until you are half their age.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanishalfelven",
+  "license": "ISC"
+}
